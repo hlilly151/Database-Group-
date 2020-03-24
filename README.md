@@ -1,1 +1,2 @@
 # Database-Group-
+We will be using Agile methodology for business practices. We will break the project into one-week sprints. When ever a person edits something we will keep track of if in a Google doc. We are going to come up with the product. Then we will estimate how long it will take us to crate each part of the project. Then we will create how long it took us to create each feature. We then we note who every created each feature.  
