@@ -12,3 +12,23 @@ EERD
 
 
 MySQL Queries
+-Trigger
+mysql> CREATE TABLE account (acct_num INT, amount DECIMAL(10,2));
+
+
+mysql> CREATE TRIGGER ins_sum BEFORE INSERT ON account
+       FOR EACH ROW SET @sum = @sum + NEW.amount;
+
+
+-Stored Procedure
+DELIMITER //
+CREATE PROCEDURE country_hos
+(IN con CHAR(20))
+BEGIN
+  SELECT Name, HeadOfState FROM Country
+  WHERE Continent = con;
+END //
+DELIMITER ;
+
+-MySQL dump
+shell> mysqldump --databases db1 db2 db3 > dump.sql
