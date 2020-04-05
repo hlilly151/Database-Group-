@@ -1,4 +1,10 @@
 # Database-Group-
+Spring-2020-Food-Project
+
+Project and Team Introduction
+Team Name:Logistic Hell
+Data and Source description
+Food delivery system
 Introduction
 we decided to do fbi crime data and with our system people will be able to look at patterns for each year. the advantage for our system is that the user can see how crime changes on a per a year basis from natural disasters or th economy at the time so that our users are able to see crime trends.
 
