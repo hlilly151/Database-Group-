@@ -2,10 +2,15 @@
 Spring-2020-Food-Project
 
 Project and Team Introduction
+
 Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. My concentraction is data scientist.
+
 Kunjumon Flora-
+
 Lilly Harrison-
+
 Parekh Shiv-
+
 Team Name:COIVD-EAT
 
 Data and Source description
