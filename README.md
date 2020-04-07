@@ -2,10 +2,10 @@
 Spring-2020-Food-Project
 
 Project and Team Introduction
-Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. 
-Kunjumon Flora
-Lilly Harrison
-Parekh Shiv
+Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. My concentraction is data scientist.
+Kunjumon Flora-
+Lilly Harrison-
+Parekh Shiv-
 Team Name:COIVD-EAT
 
 Data and Source description
@@ -24,7 +24,7 @@ We will be using Agile methodology for business practices. We will break the pro
 created each feature. We will also take note of any tools, IDE, software we use to help create this project.
 
 EERD
-
+See MYSQL Workbench
 
 MySQL Queries
 -Trigger
