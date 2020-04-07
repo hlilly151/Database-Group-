@@ -2,10 +2,18 @@
 Spring-2020-Food-Project
 
 Project and Team Introduction
-Team Name:Logistic Hell
+Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. 
+Kunjumon Flora
+Lilly Harrison
+Parekh Shiv
+Team Name:COIVD-EAT
+
 Data and Source description
+Our data source is randomly generated from http://www.generatedata.com. 
 Food delivery system
+
 Introduction
+Our project is to track the data of a food delivery company. We are taking in account that the public universities do not want just anyone on campus. There is an issue with people who have no connections to the school going anywhere on campus to deliver food. So in our project we are taking in account the delivery drivers have to be students or people who already have access to the school. In the relationship of our data we are also taking in consider ration our customers which would be univeristies students,faculty, and staff.
 
 
 Use Case
