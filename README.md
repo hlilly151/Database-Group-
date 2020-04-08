@@ -25,9 +25,9 @@ Our project is to track the data of a food delivery company. We are taking in ac
 Use Case
 
 
-Business Rules
-We will be using Agile methodology for business practices. We will break the project into one-week sprints. When ever a person edits something we will keep track of if in a Google doc. We are going to come up with the product. Then we will estimate how long it will take us to crate each part of the project. Then we will create how long it took us to create each feature. We then we note who every 
-created each feature. We will also take note of any tools, IDE, software we use to help create this project.
+Business Rules-
+
+Any time a person creates a successfull query for the project they will upload it on Git Hub to keep track of updates. If a person trys to add to an existing query and that individual gets erros/bugs they will revert back to the last running update for the query. Any time a newly updated EER diagram is uploaded there needs to be a comment that it is the new scheme. Random data
 
 EERD
 See MYSQL Workbench
@@ -53,3 +53,5 @@ DELIMITER ;
 
 -MySQL dump
 shell> mysqldump --databases db1 db2 db3 > dump.sql
+
+Data Dictionary
