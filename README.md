@@ -24,7 +24,7 @@ Our project is to track the data of a food delivery company. We are taking in ac
 
 Use Case
 
-The target of our idea is food delivery apps. The delivery app needs to have data on what food to use for adds. Each area/dorm is different for what people want. That app wants to target it's adds correctly and wants to ensure their customers are getting their food in a timely manner. With our data the app could see which drivers are rated the best and promote those accordingly. The information also ensures that the delivery drivers delivering the food already have access to the university. Delivery apps also want to know where to place their drivers in the right location at the right time. The data we have would benefit them.
+The target of our idea is food delivery apps. The delivery app needs to have data on what food to use for ads. Each area/dorm is different for what people want. That app wants to target it's adds correctly and wants to ensure their customers are getting their food in a timely manner. With our data the app could see which drivers are rated the best and promote those accordingly. The information also ensures that the delivery drivers delivering the food already have access to the university. Delivery apps also want to know where to place their drivers in the right location at the right time. The data we have would benefit them.
 
 Business Rules-
 
