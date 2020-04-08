@@ -13,7 +13,7 @@ Parekh Shiv- computer science major at uncc
 
 Team Name: COIVD-EAT
 
-Data and Source description
+Data and Source description:
 Our data source is randomly generated from http://www.generatedata.com. 
 
 Food delivery system 
