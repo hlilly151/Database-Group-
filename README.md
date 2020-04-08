@@ -5,11 +5,11 @@ Project and Team Introduction
 
 Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. My concentration is data scientist.
 
-Kunjumon Flora-
+Kunjumon Flora- senior at unc charlotte currently an intern at wells fargo
 
-Lilly Harrison-
+Lilly Harrison- seneior at unc charlotte with a mojor in computer science focus in cyber security and a minor in chinese language.
 
-Parekh Shiv-
+Parekh Shiv- computer science major at uncc
 
 Team Name: COIVD-EAT
 
