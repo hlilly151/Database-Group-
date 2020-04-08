@@ -5,9 +5,9 @@ Project and Team Introduction
 
 Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. My concentration is data scientist.
 
-Kunjumon Flora- senior at unc charlotte currently an intern at wells fargo
+Kunjumon Flora- senior at UNC Charlotte currently an intern at Wells Fargo.
 
-Lilly Harrison- seneior at unc charlotte with a mojor in computer science focus in cyber security and a minor in chinese language.
+Lilly Harrison- seneior at UNC Charlotte with a major in computer science focus in cyber security and a minor in chinese language.
 
 Parekh Shiv- computer science major at uncc
 
