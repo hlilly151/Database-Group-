@@ -55,5 +55,5 @@ DELIMITER ;
 shell> mysqldump --databases db1 db2 db3 > dump.sql
 
 Data Dictionary-
-
+Check uploaded files.
 
