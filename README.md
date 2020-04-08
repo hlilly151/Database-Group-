@@ -9,7 +9,7 @@ Kunjumon Flora- senior at UNC Charlotte currently an intern at Wells Fargo.
 
 Lilly Harrison- seneior at UNC Charlotte with a major in computer science focus in cyber security and a minor in chinese language.
 
-Parekh Shiv- computer science major at uncc
+Parekh Shiv- computer science major at UNC Charlotte.
 
 Team Name: COIVD-EAT
 
