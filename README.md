@@ -3,7 +3,7 @@ Spring-2020-Food-Project
 
 Project and Team Introduction
 
-Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. My concentration is data scientist.
+Steven Marsh- I am a current student at UNC Charlotte, and a Marine Corps veteran. My concentration is data science.
 
 Kunjumon Flora- senior at UNC Charlotte currently an intern at Wells Fargo.
 
